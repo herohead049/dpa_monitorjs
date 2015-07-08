@@ -1,18 +1,17 @@
 {
-    "name": "dpa" ,
-    "version": "0.0.1",
-    "description": "",
-    "author": "Craig David"
-,
-"dependencies" : {
-    "lodash": "3.x.x",
-    "winston": "1.x.x",
-    "winston-redis": "0.x.x",
-    "watchr": "2.x.x",
-    "xlsjs": "0.x.x",
-    "line-by-line": "0.x.x",
-    "csv-parse": "0.x.x",
+  "name": "dpa",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Craig David",
+  "dependencies": {
     "adm-zip": "0.x.x",
-    "request": "2.x.x"
-    }
+    "csv-parse": "0.x.x",
+    "line-by-line": "0.x.x",
+    "lodash": "3.x.x",
+    "request": "2.x.x",
+    "watchr": "2.x.x",
+    "winston": "1.x.x",
+    "winston-redis": "^1.0.0",
+    "xlsjs": "0.x.x"
+  }
 }
